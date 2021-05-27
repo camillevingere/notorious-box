@@ -152,5 +152,5 @@ Lien du projet: [https://github.com/camillevingere/notorious-box](https://github
 [license-url]: https://github.com/camillevingere/notorious-box/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/camille-vingere/
-[product-screenshot]: images/accueil.jpg
+[product-screenshot]: images/Accueil.jpg
 [qr-code-expo]: images/qr-code.png
